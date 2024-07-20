@@ -7,6 +7,8 @@ This repository contains code and resources for a comparative study between Quan
 
 This project aims to demonstrate the application of quantum machine learning algorithms and compare their performance against classical machine learning algorithms. We utilize the Qiskit framework for quantum machine learning and scikit-learn for classical machine learning.
 
+![QML](https://github.com/user-attachments/assets/b2fb0fa6-09b4-43ee-bff9-6fc599e98eaa)
+
 ## Setup
 
 ### Prerequisites
